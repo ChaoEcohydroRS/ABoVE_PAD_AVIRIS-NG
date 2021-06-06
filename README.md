@@ -1,6 +1,8 @@
 ### Repository named ABoVE_PAD_AVIRIS-NG for the paper below:
 # Title: Mapping vegetation communities in the Arctic-boreal wetlands of the Peace-Athabasca Delta using AVIRIS-NG hyperspectral data
-Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, Fangfang Yao<sup>2</sup>, Xiao Yang<sup>1</sup>, Shuai Zhang<sup>3</sup>, Bruce Chapman<sup>4</sup>, Conghe Song<sup>5</sup>, Antonia Sebastian<sup>1</sup>, Brian Frizzelle<sup>6</sup>, Elizabeth Frankenberg<sup>7</sup> 
+Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, E. D. Kyzivat, Fangfang Yao<sup>2</sup>, Xiao Yang<sup>1</sup>, Shuai Zhang<sup>3</sup>, Bruce Chapman<sup>4</sup>, Conghe Song<sup>5</sup>, Antonia Sebastian<sup>1</sup>
+L. C. Smith, D. E. Butman, C. J. Gleason, F. Garcia-Tigreros, C. Huang, C. Wang, T. Langhorst, J. V. Fayne, C. Kuhn, R. Spencer, K. P. Wickland, M. M. Dornblaser, Martin Kurek, R. G. Striegl 
+
 </br>1Department of Geological Sciences, University of North Carolina, Chapel Hill, NC, USA
 </br>2CIRES University of Colorado Boulder, Boulder, CO, USA
 </br>3College of Marine Science, University of South Florida, St. Petersburg, FL, USA 
