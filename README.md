@@ -36,5 +36,5 @@ For this pipeline to work you will need to have a Google Earth Engine configured
 ```
 
 ## Resources
-The material is made available under the **GNU General Public License v3.0**: Copyright 2021, Chao Wang, Tamlin M. Pavelsky, of Global Hydrology Lab - University of North Carolina, Chapel Hill.
+The material is made available under the **MIT License**: Copyright 2021, Chao Wang, Tamlin M. Pavelsky, of Global Hydrology Lab - University of North Carolina, Chapel Hill.
 All rights reserved.
