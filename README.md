@@ -44,7 +44,7 @@ The GEE repository includes some classification mapping demos:
 ```
 
 ## Other Resources
-The **Repository** for processing UAVSAR imagery can be found in
+The **Repository** for processing **UAVSAR imagery** can be found in
 https://github.com/waynechao128/FlorenceFlood_UAVSAR_Repo
 and detailed about this refers to the published paper: Wang, C., Pavelsky, T. M., Yao, F., Yang, X., Zhang, S., Chapman, B., et al. (2022). Flood extent mapping during Hurricane Florence with repeat-pass L-band UAVSAR images. Water Resources Research, 58, e2021WR030606. https://doi.org/10.1029/2021WR030606
 
