@@ -1,5 +1,5 @@
 
-# Mapping vegetation communities in the Arctic-boreal wetlands of the Peace-Athabasca Delta using AVIRIS-NG hyperspectral data**
+# Mapping vegetation communities in the Arctic-boreal wetlands of the Peace-Athabasca Delta using AVIRIS-NG hyperspectral data
 
 ## (Under construction)
 
@@ -18,7 +18,7 @@ Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, E. D. Kyzivat<sup>2</sup>
 </br>8 Earth, Ocean & Atmospheric Science Department, Florida State University, Tallahassee, FL, USA
 </br>9 USGS, Boulder, CO, USA
 </br>10 University of Massachusetts, Amherst, MA, USA
-</br>11 Watershed Hydrology and Ecology Research Division, Environment and Climate Change Canada, University of Victoria, Victoria, BC, Canada
+</br>11 Department of Geography, University of Victoria, Victoria, BC, Canada
 
 ## Abstract
 Since climate warming is twice the global average, the northernmost region of the world is suffering from a series of hydrologic changes, such as the permafrost thaw, spring floods, and summer droughts. Studies have shown that unprecedented climate warming has led to shifts in plants’ composition in the boreal ecosystems. It is particularly prominent in the changes of wetland vegetation communities, which affects wetland productivity, species diversity, and biogeochemical cycles. Establishing the relationship between the biophysical characteristics of vegetation communities and the hyperspectral signal provides the possibility of accurately identifying vegetation communities, and thus can complete the landscape-scale analysis of long-term climate-driven vegetation communities responses. However, the spectral signals and characteristics of different wetland vegetations in the boreal ecosystems have not yet been fully explored. Here, based on the manual interpretations of our field drone images and photos in the summer of 2019, we intend to address the applicability of Airborne Visible Infrared Imaging Spectrometer-Next Generation (AVIRIS-NG) hyperspectral data for supervised classifying vegetation communities along the gradients from aquatic-vegetation, emerging-vegetation, to highland-vegetation around the Chillowes Lake in the Athabasca Peace Delta. Our results concluded that the AVIRIS-NG data owing to its high spatial and spectral resolution, yield information on structural details and canopy parameters which has the advanced potential for accurately mapping of vegetation communities of wetland in boreal ecosystems.
