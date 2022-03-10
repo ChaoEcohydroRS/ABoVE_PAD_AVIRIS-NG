@@ -6,7 +6,7 @@
 Repository named **ABoVE_PAD_AVIRIS-NG** for the paper titled **Mapping vegetation communities in the Arctic-boreal wetlands of the Peace-Athabasca Delta using AVIRIS-NG hyperspectral data** subimitted to RSE.
 
 **Author List**
-Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, E. D. Kyzivat<sup>2</sup>, Fenix Garcia-Tigreros<sup>3</sup>, Erika Podest<sup>4</sup>, Fangfang Yao<sup>5</sup>, Xiao Yang<sup>1</sup>, Shuai Zhang<sup>6</sup>, Conghe Song<sup>7</sup>, Theodore Langhorst<sup>1</sup>, Wayana Dolan<sup>1</sup>, Martin Kurek<sup>8</sup>, Laurence C. Smith<sup>2</sup>, David E. Butman<sup>3</sup>, Robert G Spencer<sup>8</sup>, Mark Dornblaser<sup>9</sup>, Kimberly Wickland<sup>9</sup>, Robert G Striegl<sup>9</sup>,  Daniel L. Peters<sup>11</sup>
+Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, E. D. Kyzivat<sup>2</sup>, Fenix Garcia-Tigreros<sup>3</sup>, Erika Podest<sup>4</sup>, Fangfang Yao<sup>5</sup>, Xiao Yang<sup>1</sup>, Shuai Zhang<sup>6</sup>, Conghe Song<sup>7</sup>, Theodore Langhorst<sup>1</sup>, Wayana Dolan<sup>1</sup>, Martin Kurek<sup>8</sup>, Laurence C. Smith<sup>2</sup>, David E. Butman<sup>3</sup>, Robert G. M. Spencer<sup>8</sup>, Mark Dornblaser<sup>9</sup>, Kimberly Wickland<sup>9</sup>, Robert G. Striegl<sup>9</sup>,  Daniel L. Peters<sup>10</sup>
 
 </br>1 Department of Earth, Marine and Environmental Sciences, University of North Carolina, Chapel Hill, NC, USA
 </br>2 Brown University, Providence, RI
@@ -17,9 +17,9 @@ Chao Wang<sup>1</sup>, Tamlin M. Pavelsky<sup>1</sup>, E. D. Kyzivat<sup>2</sup>
 </br>7 Department of Geography, University of North Carolina, Chapel Hill, NC, USA
 </br>8 Earth, Ocean & Atmospheric Science Department, Florida State University, Tallahassee, FL, USA
 </br>9 USGS, Boulder, CO, USA
-</br>11 Department of Geography, University of Victoria, Victoria, BC, Canada
+</br>10 Department of Geography, University of Victoria, Victoria, BC, Canada
 
-</br>C. J. Gleason<sup>10</sup>,  10 University of Massachusetts, Amherst, MA, USA
+</br>C. J. Gleason<sup>10</sup>,  University of Massachusetts, Amherst, MA, USA
 
 ## Abstract
 Since climate warming is twice the global average, the northernmost region of the world is suffering from a series of hydrologic changes, such as the permafrost thaw, spring floods, and summer droughts. Studies have shown that unprecedented climate warming has led to shifts in plants’ composition in the boreal ecosystems. It is particularly prominent in the changes of wetland vegetation communities, which affects wetland productivity, species diversity, and biogeochemical cycles. Establishing the relationship between the biophysical characteristics of vegetation communities and the hyperspectral signal provides the possibility of accurately identifying vegetation communities, and thus can complete the landscape-scale analysis of long-term climate-driven vegetation communities responses. However, the spectral signals and characteristics of different wetland vegetations in the boreal ecosystems have not yet been fully explored. Here, based on the manual interpretations of our field drone images and photos in the summer of 2019, we intend to address the applicability of Airborne Visible Infrared Imaging Spectrometer-Next Generation (AVIRIS-NG) hyperspectral data for supervised classifying vegetation communities along the gradients from aquatic-vegetation, emerging-vegetation, to highland-vegetation around the Chillowes Lake in the Athabasca Peace Delta. Our results concluded that the AVIRIS-NG data owing to its high spatial and spectral resolution, yield information on structural details and canopy parameters which has the advanced potential for accurately mapping of vegetation communities of wetland in boreal ecosystems.
