@@ -32,6 +32,12 @@ For this pipeline to work you will need to have a Google Earth Engine configured
 
 ## Installation
 
+import os
+import sys
+import ee
+import math
+import re
+
 ### Manually
 
 
