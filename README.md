@@ -34,6 +34,7 @@ For this pipeline to work you will need to [sign up](https://earthengine.google.
 
 ## Installation
 
+After installing all necessary package, please check by running the following code:
 ```python
 import os
 import sys
