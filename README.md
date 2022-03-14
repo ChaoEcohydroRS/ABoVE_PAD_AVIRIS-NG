@@ -32,11 +32,13 @@ For this pipeline to work you will need to have a Google Earth Engine configured
 
 ## Installation
 
+```python
 import os
 import sys
 import ee
 import math
 import re
+```
 
 ### Manually
 
