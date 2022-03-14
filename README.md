@@ -52,5 +52,5 @@ and detailed about this refers to the published paper: Wang, C., Pavelsky, T. M.
 
 
 ## License
-The material is made available under the **MIT License**: Copyright 2021, Chao Wang, Tamlin M. Pavelsky, of Global Hydrology Lab - University of North Carolina, Chapel Hill.
+The material is made available under the **MIT License**: Copyright 2022, Chao Wang, Tamlin M. Pavelsky, of Global Hydrology Lab - University of North Carolina, Chapel Hill.
 All rights reserved.
