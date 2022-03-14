@@ -28,7 +28,9 @@ Since climate warming is twice the global average, the northernmost region of th
 
 
 # Python Instructions
-For this pipeline to work you will need to have a Google Earth Engine configured python installation ready to go. Explaining exactly how to do this is beyond the scope of this package but Google provides detailed installation instructions [here](https://developers.google.com/earth-engine/python_install).
+For this pipeline to work you will need to [sign up](https://earthengine.google.com/signup/) and have a Google Earth Engine configured python installation ready to go. 
+
+<br>Explaining exactly how to do this is beyond the scope of this package but Google provides detailed installation instructions [here](https://developers.google.com/earth-engine/python_install).
 
 ## Installation
 
