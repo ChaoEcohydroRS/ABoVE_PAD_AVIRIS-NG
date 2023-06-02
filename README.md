@@ -61,6 +61,8 @@ The **Repository** for processing **UAVSAR imagery** can be found in
 https://github.com/waynechao128/FlorenceFlood_UAVSAR_Repo
 and detailed about this refers to the published paper: Wang, C., Pavelsky, T. M., Yao, F., Yang, X., Zhang, S., Chapman, B., et al. (2022). Flood extent mapping during Hurricane Florence with repeat-pass L-band UAVSAR images. Water Resources Research, 58, e2021WR030606. https://doi.org/10.1029/2021WR030606
 
+## Citation
+Wang, C., T. M. Pavelsky, E. D. Kyzivat, F. Garcia-Tigreros, E. Podest, F. Yao, X. Yang, S. Zhang, C. Song, T. Langhorst, W. Dolan, M. R. Kurek, M. E. Harlan, L. C. Smith, D. E. Butman, R. G. M. Spencer, C. J. Gleason, K. P. Wickland, R. G. Striegl, and D. L. Peters. 2023. Quantification of wetland vegetation communities features with airborne AVIRIS-NG, UAVSAR, and UAV LiDAR data in Peace-Athabasca Delta. Remote Sensing of Environment 294:113646. https://doi.org/10.1016/j.rse.2023.113646
 
 ## License
 The material is made available under the **MIT License**: Copyright 2022, Chao Wang, Tamlin M. Pavelsky, of Global Hydrology Lab - University of North Carolina, Chapel Hill.
